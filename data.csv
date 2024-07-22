@@ -1,0 +1,9 @@
+Sky,AirTemperature,Humidity,Wind,Water,Future,EnjoyFactor
+
+Sunny,Warm,Normal,Strong,Warm,Change,Yes
+
+Sunny,Warm,High,Strong,Warm,Same,Yes
+
+Rainy,Warm,High,Strong,Warm,Same,Yes
+
+Rainy,Warm,High,Strong,Cool,Same,No
